@@ -1,0 +1,14 @@
+.form-login {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-box {
+  width: 400px;
+  min-height: 300px;
+  border: 1px solid #7c0bf4;
+  padding: 30px;
+ }
